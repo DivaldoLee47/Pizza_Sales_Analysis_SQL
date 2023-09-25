@@ -181,3 +181,5 @@ FROM
     RankedPizzaCounts
 WHERE
     row_num = 1
+
+--https://www.linkedin.com/pulse/pizza-sales-analysis-sql-amandeep-singh/?trackingId=6evglv4kQTS8zzkZgnwXmw%3D%3D
